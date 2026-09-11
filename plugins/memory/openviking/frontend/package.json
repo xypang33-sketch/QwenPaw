@@ -2,7 +2,9 @@
   "name": "memory-openviking-plugin-ui",
   "private": true,
   "version": "1.0.0",
-  "scripts": { "build": "vite build" },
+  "scripts": {
+    "build": "vite build"
+  },
   "devDependencies": {
     "@types/react": "^18.3.3",
     "@vitejs/plugin-react": "^4.3.1",
